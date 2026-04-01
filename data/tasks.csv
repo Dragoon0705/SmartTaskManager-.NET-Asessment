@@ -1,0 +1,8 @@
+TaskCategory,EstimatedDuration,ActualDuration,CompletionStatus,Priority,DayOfWeek,Delay
+Work,2,3,1,High,Monday,1
+Personal,1,1,1,Low,Tuesday,0
+Study,3,5,0,High,Wednesday,2
+Work,4,4,1,Medium,Thursday,0
+Personal,2,3,0,Low,Friday,1
+Study,5,6,1,High,Saturday,1
+Work,3,2,1,Medium,Sunday,-1
