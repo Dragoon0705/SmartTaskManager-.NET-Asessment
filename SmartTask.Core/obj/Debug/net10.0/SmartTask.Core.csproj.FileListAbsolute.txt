@@ -1,0 +1,11 @@
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\bin\Debug\net10.0\SmartTask.Core.deps.json
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\bin\Debug\net10.0\SmartTask.Core.dll
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\bin\Debug\net10.0\SmartTask.Core.pdb
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\SmartTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\SmartTask.Core.AssemblyInfoInputs.cache
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\SmartTask.Core.AssemblyInfo.cs
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\SmartTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\SmartTask.Core.dll
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\refint\SmartTask.Core.dll
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\SmartTask.Core.pdb
+C:\Users\SS123787\source\repos\SmartTaskManager\SmartTask.Core\obj\Debug\net10.0\ref\SmartTask.Core.dll
